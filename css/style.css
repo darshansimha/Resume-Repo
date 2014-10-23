@@ -97,12 +97,14 @@ body {
 			display: block;
 		}
 			.section .set {
-				margin-left: 25px;
+				
 			}
 			.section .set h3 {
 				margin: 0;
 			}
-
+			.workExperience{
+				margin-left:25px;
+			}
 
 
 		.basic-info {
