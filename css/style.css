@@ -6,7 +6,7 @@ body {
 			font-family:Segoe UI !important;
 			font-weight: normal;
 			line-height: 22px;
-			font-size: 14px;
+			font-size: 13px;
 
 			color: #000;
 		}
@@ -36,8 +36,6 @@ body {
 			margin: 0;
 			list-style-type: square;
 		}
-		
-		/* ________________________________________________________ */
 		
 		.clear {
 			clear: both;
@@ -88,10 +86,9 @@ body {
 			margin: 0 0 20px 0;
 		}
 
-		/*  _____________________________ */
 		.section .title {
 			text-transform: uppercase;
-			font-size: 160%;
+			font-size: 130%;
 
 			margin: 0 auto 15px auto;
 			display: block;
