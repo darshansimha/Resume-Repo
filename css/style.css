@@ -3,7 +3,7 @@ body {
 			margin: 0;
 			padding: 0;
 			
-			font-family: 'Open Sans', 'Helvetica Light', 'Helvetica Neue', 'Arial Narrow', Helvetica, Arial, serif;
+			font-family:Segoe UI !important;
 			font-weight: normal;
 			line-height: 22px;
 			font-size: 14px;
@@ -12,7 +12,7 @@ body {
 		}
 
 		h1, h2, h3, h4 {
-			font-family: 'Open Sans', 'Helvetica Light', 'Helvetica Neue', 'Arial Narrow', Helvetica, Arial, serif;
+			font-family:Segoe UI;
 			font-weight: 300;
 			font-weight: normal;
 			margin: 0 0 15px 0;
@@ -128,7 +128,7 @@ body {
 			text-align: right;
 		}
 			.basic-info label {
-				font-family: 'Open Sans', 'Helvetica Light', 'Helvetica Neue', 'Arial Narrow', Helvetica, Arial, serif;
+				font-family:Segoe UI;
 				font-weight: 300;
 			}
 			.basic-info label, .basic-info span  {
