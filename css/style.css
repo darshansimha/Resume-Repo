@@ -4,8 +4,8 @@ body {
     padding: 0;
     font-family: sans-serif;
     font-weight: normal;
-    line-height: 22px;
-    font-size: 15px;
+    line-height: 18px;
+    font-size: 11px;
     color: #000;
 }
 h1,
@@ -48,7 +48,6 @@ ul {
     box-shadow: 0 0 6px #ccc;
 }
 #title {
-    line-height: 42px;
     padding-bottom: 20px;
     margin: 0px 0 20px 0;
 }
