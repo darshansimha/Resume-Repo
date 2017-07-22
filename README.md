@@ -7,7 +7,7 @@ My Resume template, that I have hand coded in html
 <html lang="en" manifest="resume.appcache">
 
 <head>
-    <title>Darshan Resume</title>
+    
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300&subset=latin,latin-ext" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="css/style.css" />
