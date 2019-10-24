@@ -1,77 +1,65 @@
 Resume-Repo
 ===========
-My Resume template, that I have hand coded in html
-
 WORK EXPERIENCE
-Senior Member of Technical Staff
-Aug 2017 - Present
-Senior Member of Technical StaffSenior Member of Technical Staff
-Adobe Systems - Bengaluru, KA, IND
-Working as a full stack developer for the Adobe Media Optimizer on technologies like Angular 2/4 and TypeScript. Woking in the domain of digital media marketing using search engines, television and social networking advertisements.
 
-Software engineer
-Jul 2015 - Jul 2017
-Software engineerSoftware engineer
-Caterpillar Inc - Peoria, Illinois, United States
-Full stack developer for Flash Over the Air program. Working on developing microservices for a system following event driven architecture on the Microsoft Azure platform. Familiar with message queues and  proficient in Salesforce.com platform.
+Adobe Inc, Bengaluru, KA, India.August 2017 — Ongoing
+Member of Technical Staff 2
+Full stack developer for "Adobe Media Optimizer" in the Adobe Ad Cloud.
+Working on developing the UI in Angular 2/4/6
+Implement seamless cross-browser user experiences
+Developing REST APIs in Java using Spring Boot framework
+Implementing Caching in both the UI (IndexedDB) and the Java back end (Redis)
+Working on web components and TypeScript (ES6)
+Researching and implementing Progressive web applications and it's benifits
+Experience with build tools like Gradle, Maven, Webpack, Brunch and Gulp
+Caterpillar Inc. Peoria, IL, USAJuly 2014 — Aug 2017 (Returned to India)
+Senior Associate Engineer
+Full stack developer and UI team lead for "Caterpillar Flash Over the Air" application
+Developed an enteprise single page web application using AngularJS
+Worked on developing microservices for a system following event driven architecture on the Microsoft Azure platform.
+Worked with the Salesforce.com service platform
+Full stack developer for Product Link Web and Dealer Services Portal. Using Backbone.js for the UI and Java for the REST Api's
 
-Software engineer
-Feb 2014 - Jul 2015
-Software engineerSoftware engineer
-Caterpillar Inc - Chennai, TN, IND
-Full stack developer working with the Salesforce.com platform and Angular 1.x for developing a platform for products like Product Link Web and Dealer Services Portal
+Caterpillar India Pvt. Ltd. Chennai, TN, IndiaFeb 2014 — June 2014
+Project Intern
+Developed user interfaces using the Backbone.js framework and JQuery for "Product Link Web". Built a dashboard to monitor and report system performance.
 
+Blackberry Ltd. Chennai, TN, IndiaJuly 2013 — Oct 2013
 Intern
-Jul 2013 - Oct 2013
-InternIntern
-Blackberry Ltd. - Chennai, TN, IND
 Worked on developing applications on the Blackberry 10 platform as a part of kick starting the launch of the new Blackberry platform.
 
+Enelek Power Pvt. Ltd. (IIT-Bombay) Mumbai, MH, IndiaJune 2013 — July 2013
 Intern
-Jun 2013 - Jul 2013
-InternIntern
-Enelek Power Pvt. Ltd. (IIT-Bombay) - Mumbai, MH, IND
 Worked on building a learning management system for IIT-Bombay professors to interact with the industry professionals using PHP, MySQL and JQuery
 
+Desto Creative Solutions (IIT-Madras) Chennai, TN, IndiaJuly 2012 — Jan 2013
 Intern
-Jul 2012 - Jan 2013
-InternIntern
-Desto Creative Solutions (IITMadras) - Chennai, TN, IND
-Worked on building the official company website, and developed plugins on the Wordpress platform.
-
+Worked on building the official company website, developing plugins on the Wordpress platform and developing a web application to track and monitor tasks for a team.
+JH Softech Hyderabad, TL, IndiaMay 2012 — July 2012
 Intern
-May 2012 - Jul 2012
-InternIntern
-JH Softech - Hyderabad, TL, IND
 Worked on developing a web application for accounting and feedback management system to store and respond to customer and supplier feedback.
 
-EDUCATION
-
-Bachelors of Technology
-Jul 2010 - May 2014
-Bachelors of TechnologyBachelors of Technology
-Vellore Institute of Technology • Vellore, India
-Bachelors of Technology Degree awarded in the field of Computer Science and Engineering. CGPA : 8.08/10
-
+MY WEB PRESENCE
+My GitHub Handle
+www.desto.in
+www.jhsoftech.com
+www.sriradhakrishnadrillers.com
+www.coursewave.org
 
 SKILLS
-
-Angular 2/4, TypeScript (1 year)
-Angular 1.x, Backbone.js, jQuery (3.5 years)
-Java/ Spring/ Hibernate (3 years)
-Salesforce.com Service Cloud Platform, Apex/ Visualforce / Triggers(3 years)
-HTML, JavaScript, CSS, Bootstrap (6.5 years)
-Oracle Database, MySQL Database, Microsoft DB Server (3 years)
-Restful Services, Microservices (3 years)
-Microsoft Azure (2 Year)
-GIT (6 years)
-Brunch, Gulp and Other NPM Packages
-
-MY WEB PRESENCE
-
-My GitHub Handle
-Desto Website
-JH Softech Website
+Angular.js (1.x, 2.x, 4.x and 6.x), Backbone.js
+HTML, CSS, JavaScript/ jQuery / Ajax
+Brunch, Gulp, Webpack
+Salesforce.com Service Cloud Platform, Apex/ Visualforce / Triggers
+Java , J2EE, JSF, Struts, JSP, Tomcat, Servlets, JUnit
+Spring Boot, RESTful API design, Swagger, Hibernate, JDBC
+Oracle, SQL Server, MySQL
+Restful Services, Microservices
+Microsoft Azure
+EDUCATION
+Bachelors of Technology in Computer Science and EngineeringJuly 2010 — May 2014
+Vellore Institute of Technology (VIT)
+GPA: 8.08 (10)
 
 LANGUAGES KNOWN
 
